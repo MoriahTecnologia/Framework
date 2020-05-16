@@ -23,6 +23,6 @@ namespace ArezzoCo.Framework.DTO
 
     public interface IResultAction<T, X> : IResultAction<T>
     {
-        X CallError { get; }
+        X DataResultAlternative { get; }
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ArezzoCo.Framework.DTO
+namespace Moriah.Framework.DTO
 {
     public interface IResultAction
     {

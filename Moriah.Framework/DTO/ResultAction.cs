@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ArezzoCo.Framework.DTO
+namespace Moriah.Framework.DTO
 {
     /// <summary>
     /// Use this class to control the result of an action and its responses, if there are any exceptions, control by inserting into the class.
